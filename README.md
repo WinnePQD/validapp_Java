@@ -1,6 +1,6 @@
 # 📦 ValidAPP
 
-O **ValidAPP** é um aplicativo desenvolvido para ajudar no controle de validade de produtos de forma simples, rápida e eficiente.
+O **ValidAPP** é um aplicativo totalmente desenvolvido em Java para ajudar no controle de validade de produtos de forma simples, rápida e eficiente.
 
 Com ele, você pode cadastrar produtos, acompanhar datas de vencimento e evitar desperdícios no dia a dia.
 
@@ -25,8 +25,7 @@ O ValidAPP foi criado para facilitar a organização de produtos, ajudando usuá
 
 ## 🛠️ Tecnologias utilizadas
 
-* Python
-* Kivy / KivyMD
+* Java
 * Firebase (Authentication e Realtime Database)
 
 ---
