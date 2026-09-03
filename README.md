@@ -1,4 +1,4 @@
-# 📦 ValidAPP
+# 📦 ValidAPP_Java
 
 O **ValidAPP** é um aplicativo totalmente desenvolvido em Java para ajudar no controle de validade de produtos de forma simples, rápida e eficiente.
 
